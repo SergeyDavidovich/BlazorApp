@@ -1,1 +1,1 @@
-sergeydavidovich.github.io/blazorapp/
+htpps//:sergeydavidovich.github.io/blazorapp/

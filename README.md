@@ -1,1 +1,1 @@
-BlazorApp
+sergeydavidovich.github.io/blazorapp/

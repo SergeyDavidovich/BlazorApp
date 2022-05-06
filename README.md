@@ -1,14 +1,14 @@
 <h3> <b>Blazor Webassembly publish to GitHub Pages sample</b> </h3>
 
-Using:
+_Using:_
 
 https://www.meziantou.net/publishing-a-blazor-webassembly-application-to-github-pages.htm
 
-Demo: 
+_Demo:_ 
 
 https://sergeydavidovich.github.io/BlazorApp/
 
-Action for this site
+_Action for this site_
 
     name: Deploy to GitHub Pages
     on:

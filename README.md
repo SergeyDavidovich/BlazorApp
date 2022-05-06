@@ -53,7 +53,5 @@ _Action for this site_
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             BRANCH: gh-pages
             FOLDER: release/wwwroot
- `
-  
-  
+    
  [Markdown-docs.md](https://gist.github.com/SergeyDavidovich/6dc36c2139f16d24fc0231d3d44cc75e)

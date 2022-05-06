@@ -4,6 +4,6 @@ Using:
 
 https://www.meziantou.net/publishing-a-blazor-webassembly-application-to-github-pages.htm
 
-Demo link: 
+Demo: 
 
 https://sergeydavidovich.github.io/BlazorApp/

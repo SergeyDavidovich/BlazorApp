@@ -1,4 +1,4 @@
-The sample of Blazor Webassembly publish to GitHub Pages 
+<h3> <b>The sample of Blazor Webassembly publish to GitHub Pages</b> </h3>
 
 Using:
 

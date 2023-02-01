@@ -6,6 +6,8 @@ _Using:_
 
 https://www.meziantou.net/publishing-a-blazor-webassembly-application-to-github-pages.htm
 
+---
+
 _Demo:_ 
 
 https://sergeydavidovich.github.io/BlazorApp/

@@ -30,7 +30,7 @@ _Action for this site_
         # runs-on: windows-latest
         steps:
         # uses GitHub's checkout action to checkout code form the master branch
-    - uses: actions/checkout@v2
+        - uses: actions/checkout@v2
     
     # sets up .NET Core SDK 6
     - name: Setup .NET Core SDK
